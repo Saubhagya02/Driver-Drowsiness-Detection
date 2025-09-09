@@ -31,8 +31,8 @@ A convolutional neural network can have tens or hundreds of layers that each lea
 Consider using CNNs when you have a large amount of complex data (such as image data). You can also use CNNs with signal or time-series data when preprocessed to work with the network structure.
 ![1669126552882](https://user-images.githubusercontent.com/98209563/218677107-7294702c-b299-4617-aa16-bafd575a767b.jpg)
 
-
 Model: "sequential"
+![pipeline](https://user-images.githubusercontent.com/98209563/224373565-7de14913-f9e4-4c5e-b54c-39c24ea6c762.png)
 
 No, of layers: 10
 
